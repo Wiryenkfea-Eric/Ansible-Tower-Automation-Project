@@ -1,4 +1,4 @@
-# Ansible-Tower-Automation-Projec
+# Ansible-Tower-Automation-Project
 This Project Highlights How FreeRange Took Advantage of Ansible Tower's Enterprise Functionalities, To Automate and Orchestrate The Creation of Different Client Development Environments.
 
 ## [SDD] FreeRange Client Dev Environment Automation Architecture
