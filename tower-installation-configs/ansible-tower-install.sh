@@ -1,4 +1,4 @@
-sudo yum -y update
+sudo yum -y updat
 sudo yum install epel-release -y
 sudo yum install ansible -y
 curl -O https://releases.ansible.com/ansible-tower/setup/ansible-tower-setup-latest.tar.gz
